@@ -5,7 +5,7 @@
   "dependencies": {
   },
   "scripts": {
-    "test":"mocha",
+    "test":"mocha"
   },
   "devDependencies":{
   },
