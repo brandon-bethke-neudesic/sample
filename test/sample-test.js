@@ -4,7 +4,7 @@ var Sample = new sample();
 
 describe("Sample", function(next){
 
-   it("Returns Hello World1", function(next){
+   it("Returns Hello World2", function(next){
         var text = Sample.hello();
         var error = null;
         if(text !== "Hello World") {
