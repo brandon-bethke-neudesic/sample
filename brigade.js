@@ -5,8 +5,7 @@ events.on("timu", () => {
   job.tasks = [
     "cd /src",
     "ls -al",
-    "echo Hello",
-    "echo Timu"
+    "cat bridage.js"
   ]
 
   job.run()
